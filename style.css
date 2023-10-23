@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn-primary{
+    width: 150px !important;
+    padding: 10px !important;
+   margin: auto;
+   margin-top: 35px !important;
+}
+.bi{
+    font-size: 25px !important;
+   margin-top: 35px !important;
+}
+.conatiner-fluid{
+    background-color: #F5F5F5 !important;
+}
+.bi{
+    color: #4724A5 !important;
+    cursor: pointer;
+}
+.btn-primary{
+    background-color: #7E61CE !important;
+    border: none !important;
+}
+.main-footer{
+    background-color: #4724A5 !important;
+    color: white !important;
+}
+p{
+    cursor: pointer;
+}
+h1{
+    font-size: 23px !important;
+    font-weight: 700 !important;
+}
